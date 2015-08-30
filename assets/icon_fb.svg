@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated.
 You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
 
 
@@ -10,6 +10,14 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+
+ <style type="text/css">
+
+ 	#facebook-square-rounded-icon:hover {
+ 		fill: #2DC6F9;
+ 	}
+
+ </style>
 
 <path id="facebook-square-rounded-icon" d="M411.945,50h-312c-27.614,0-50,22.386-50,50v312c0,27.614,22.386,50,50,50h312
 
@@ -20,4 +28,3 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 	v-50.178h30.74c0,0,0-7.215,0-39.517c0-37.087,19.832-56.452,63.818-56.452c7.205,0,40.926,0,40.926,0V160.658z"/>
 
 </svg>
-

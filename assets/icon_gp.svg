@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated.
 You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
 
 
@@ -10,6 +10,14 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+
+<style type="text/css">
+
+	#google-plus-square-rounded-icon:hover {
+		fill: #2DC6F9;
+	}
+
+</style>
 
 <path id="google-plus-square-rounded-icon" d="M209.035,235.669c-22.34-0.673-43.568-21.164-47.425-50.498
 
@@ -34,4 +42,3 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 	h19.117v-38.235h38.235V162.626z"/>
 
 </svg>
-

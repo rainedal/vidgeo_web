@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated.
 You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
 
 
@@ -10,6 +10,14 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+
+ <style type="text/css">
+
+ 	#twitter-3-icon:hover {
+ 		fill: #2DC6F9;
+ 	}
+
+ </style>
 
 <path id="twitter-3-icon" d="M412,50H100c-27.614,0-50,22.386-50,50v312c0,27.614,22.386,50,50,50h312c27.614,0,50-22.386,50-50V100
 
@@ -26,4 +34,3 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 	c11.37-1.357,22.204-4.379,32.284-8.851C392.454,189.301,382.926,199.201,371.942,207.125z"/>
 
 </svg>
-

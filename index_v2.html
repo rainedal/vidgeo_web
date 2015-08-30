@@ -23,10 +23,9 @@
     }
 
     .overlay_head {
-        width: 960px;
-        height: 60px;
-        /*left: 370px;*/
-        top: 500px;
+        width: 240px;
+        height: 90px;
+        left: 370px;
         background-color: #FFCC44;
         position: relative;
     }
@@ -34,26 +33,23 @@
         .vidgeo_icon {
             width: 121px;
             height: 49px;
-            left: 10px;
-            top: 5px;
+            left: 60px;
             position: relative;
         }
 
         .download_icon {
-            height: 30px;
-            top: 15px;
-            position: relative;
-            display: inline-block;
-            float: right;
-            padding-right: 10px;
+            width: 90px;
+            position: absolute;
+            display: inherit;
+            top: 50px;
         }
 
             #apple {
-                /*left: 25px;*/
+                left: 25px;
             }
 
             #android {
-                /*left: 25px;*/
+                left: 130px;
             }
 
     .overlay_foot {
@@ -80,18 +76,18 @@
             left: 355px;
             font-size: 12px;
             font-family: 'Oxygen', sans-serif;
-            color: #FFFFFF;
+            /*color: #FFFFFF;*/
         }
 
             .footer_link {
                 font-family: 'Oxygen', sans-serif;
                 font-weight: 400;
-                color: #FFFFFF;
+                color: #000000;
                 text-decoration: none;
             }
 
             .footer_link:hover {
-                color: #2DC6F9;
+                color: #FA3435;
             }
 
         .copyright_text {
@@ -101,7 +97,7 @@
             float: right;
             font-size: 12px;
             font-family: 'Oxygen', sans-serif;
-            color: #FFFFFF;
+            /*color: #FFFFFF;*/
             vertical-align: text-top;
         }
 
@@ -112,15 +108,13 @@
     <div class="overlay">
         <div class="overlay_head">
             <img class="vidgeo_icon" src="assets/vidgeo-icon.png" />
-            <img class="download_icon" id="android" src="assets/download_google.svg" />
             <img class="download_icon" id="apple" src="assets/download_apple.svg" />
-
-            <!-- <img class="social_icon" src="assets/icon_fb.svg" />
-            <img class="social_icon" src="assets/icon_tw.svg" />
-            <img class="social_icon" src="assets/icon_gp.svg" /> -->
+            <img class="download_icon" id="android" src="assets/download_google.svg" />
         </div>
-        <!-- <div class="overlay_foot">
-
+        <div class="overlay_foot">
+            <img class="social_icon" src="assets/icon_fb.svg" />
+            <img class="social_icon" src="assets/icon_tw.svg" />
+            <img class="social_icon" src="assets/icon_gp.svg" />
 
             <div class="link_div">
                 <a class="footer_link" href="#">ABOUT</a> |
@@ -131,7 +125,7 @@
             <div class="copyright_text">
                 Copyright &#169; Vidgeo 2013-2015. All Rights Reserved.
             </div>
-        </div> -->
+        </div>
     </div>
 
     <div class="map">
