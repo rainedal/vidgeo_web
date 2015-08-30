@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<style>
+
+    .map {
+        width:960px;
+        height:560px;
+    }
+
+    .overlay {
+        z-index: 500;
+        position: absolute;
+        display: inline-block;
+    }
+
+    .overlay_head {
+        width: 240px;
+        height: 90px;
+        left: 320px;
+        background-color: #FFCC44;
+    }
+
+    .overlay_foot {
+        width: 960px;
+        height: 25px;
+        top: 535px;
+        /*vertical-align: bottom;*/
+        background-color: #FFCC44;
+    }
+
+</style>
+
+<body>
+    <div class="overlay">
+        <div class="overlay_head"></div>
+        <div class="overlay_foot"></div>
+    </div>
+
+    <div class="map">
+        <img src="assets/map.png" />
+    </div>
+</body>
+</html>
